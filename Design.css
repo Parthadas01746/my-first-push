@@ -1,0 +1,102 @@
+.heading{
+    background-image:url(271679.jpg);
+    height: 650px;
+    background-size: cover;
+    position: relative;
+    
+}
+*{
+    padding: opx;
+    margin: 0px;
+}
+
+    
+
+.heading-wrapper{
+    width: 600px;
+    top:100px;
+    right: 500px;
+    bottom: 200px;
+    position: absolute;
+ 
+   
+}
+.heading h1{
+    color:white;
+    text-transform: uppercase;
+    font-size: 50px;
+    
+}
+.heading h1:hover{
+    transform:scale(1.5);
+    color: black;
+}
+.input{
+    width: 80%;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    display: block;
+    outline: none;
+    background-color: aquamarine;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.button{
+    width:100px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: gainsboro;
+    outline:none;
+    border:none;
+    cursor: pointer;
+}
+.food1{
+    display: inline-block;
+}
+.heading p{
+    color: darkslategrey;
+}
+
+h3{
+    width:400px;
+    height:340px;
+    text-align: justify;
+}
+ ul li{
+    list-style-type:none;
+    float: right;
+    border: 2px solid black;
+    padding: 5px;
+    color: white;
+    background:black;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+ul li:hover{
+    color:black;
+    background:white;
+    transform:scale(1.2)
+}
+.home{
+    color:black;
+    background:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
